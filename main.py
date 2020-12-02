@@ -178,9 +178,9 @@ class MyWidget(QMainWindow):
 
     def run(self):
         if language == 'Russian':
-            self.text = random.randint(0, 9)
+            self.text = random.randint(0, 10)
         else:
-            self.text = random.randint(10, 19)
+            self.text = random.randint(11, 19)
 
         self.textEdit.setText("")
         self.resultLabel.setText("")
@@ -396,7 +396,7 @@ if __name__ == '__main__':
                 ' address in that location. The original structure was completed in 1987 and was destroyed'
                 ' in the September 11 attacks. The current 7 World Trade Center opened in 2006 on part of'
                 ' the site of the old 7 World Trade Center. Both buildings were developed by Larry Silverstein,'
-                ' who holds a ground lease for the site from the Port Authority of New York and New Jersey./n'
+                ' who holds a ground lease for the site from the Port Authority of New York and New Jersey.'
                 "The original 7 World Trade Center was 47 stories tall, clad in red exterior masonry, and occupied"
                 " a trapezoidal footprint. An elevated walkway connected the building to the World Trade Center plaza."
                 " The building was situated above a Consolidated Edison (Con Ed) power substation, which imposed unique"
@@ -408,7 +408,7 @@ if __name__ == '__main__':
                 " pressure to fight the fires, and the building collapsed completely at 5:21:10 pm. The collapse"
                 " began when a critical internal column buckled and triggered structural failure throughout, which"
                 " was first visible from the exterior with the crumbling of a rooftop penthouse structure at"
-                " 5:20:33 pm./n"
+                " 5:20:33 pm."
                 "Construction of the new 7 World Trade Center began in 2002 and was completed in 2006."
                 " The building is 52 stories tall, making it the 29th tallest in New York. It is built on a"
                 " smaller footprint than the original, allowing Greenwich Street to be restored from TriBeCa"
@@ -461,7 +461,7 @@ if __name__ == '__main__':
                 " the crystal had darkened, and the tribe had been released from the spell. But the fallen man-ape"
                 " had not moved; and by the morning, of course, the body was gone. There had been no performance"
                 " the next night; the crystal was still analyzing its mistake.")
-    text.append("	Floyd felt himself well charged with oxygen, and ready to tackle anything, when the launching"
+    text.append("Floyd felt himself well charged with oxygen, and ready to tackle anything, when the launching"
                 " track began to sling its thousand-ton payload out over the Atlantic. It was hard to tell when"
                 " they lifted from the track and became airborne, but when the roar of the rockets suddenly"
                 " doubled its fury, and Floyd found himself sinking deeper and deeper into the cushions of "
@@ -473,14 +473,14 @@ if __name__ == '__main__':
     text.append("Fog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the"
                 " river, where it rolls deified among the tiers of shipping and the waterside pollutions"
                 " of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights."
-                " Fog creeping into the caboo           ses of collier-brigs; fog lying out on the yards and"
+                " Fog creeping into the caboo ses of collier-brigs; fog lying out on the yards and"
                 " hovering in the rigging of great ships; fog drooping on the gunwales of barges"
                 " and small boats. Fog in the eyes and throats of ancient Greenwich pensioners,"
                 " wheezing by the firesides of their wards; fog in the stem and bowl of the afternoon"
                 " pipe of the wrathful skipper, down in his close cabin; fog cruelly pinching the toes"
                 " and fingers of his shivering little 'prentice boy on deck. Chance people on the bridges"
                 " peeping over the parapets into a nether sky of fog.")
-    text.append("	As he rose to his feet he noticed that he was neither dripping nor panting for"
+    text.append("As he rose to his feet he noticed that he was neither dripping nor panting for"
                 " breath as anyone would expect after being under water. His clothes were perfectly"
                 " dry. He was standing by the edge of a small pool – not more than ten feet from side"
                 " to side in a wood. The trees grew close together and were so leafy that he could get"
